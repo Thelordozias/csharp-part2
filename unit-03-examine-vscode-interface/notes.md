@@ -12,3 +12,5 @@ Main interface areas:
  
 - Personal confirmation: I explored these interface areas on 2026-02-03 and practiced using the Command Palette.
 
+- Verification note (commit-specific): committed this confirmation on 2026-02-03 to provide an explicit Unit 3 commit.
+

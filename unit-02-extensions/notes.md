@@ -6,3 +6,5 @@
 - Confirmed VS Code is ready for further configuration
 
 - Personal confirmation: I installed and verified extensions on 2026-02-03.
+
+- Verification note (commit-specific): committed this confirmation on 2026-02-03 to provide an explicit Unit 2 commit.
