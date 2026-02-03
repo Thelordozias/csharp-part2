@@ -4,3 +4,5 @@
 - Installed VS Code using the User Installer with default settings
 - Successfully launched VS Code after installation
 - Confirmed VS Code is ready for further configuration
+
+- Personal confirmation: I installed and verified extensions on 2026-02-03.
