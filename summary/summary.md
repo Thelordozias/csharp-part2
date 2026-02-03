@@ -5,3 +5,5 @@ This module covered:
 - Installing .NET 10 SDK
 - Using dotnet new, build, and run
 - Creating and running a first C# console application
+
+- Personal confirmation: summary completed on 2026-02-03
