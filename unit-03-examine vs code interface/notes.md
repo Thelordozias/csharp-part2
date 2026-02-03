@@ -1,0 +1,12 @@
+# Unit 3 – Examine Visual Studio Code UI
+
+In this unit, I learned how Visual Studio Code is organized.
+
+Main interface areas:
+- Activity Bar: used to switch between views like Explorer and Extensions
+- Side Bar: displays tools such as file explorer and extensions
+- Editor: area where code files are opened and edited
+- Panel: shows terminal, output, and debug information
+- Status Bar: shows file and project information
+- Main Menu: provides access to commands like save, edit, and run
+
